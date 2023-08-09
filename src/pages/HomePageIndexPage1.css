@@ -1,0 +1,683 @@
+.hillwood-payment,
+.woodempile {
+  position: absolute;
+  text-align: left;
+}
+.woodempile {
+  top: 47px;
+  left: 89px;
+  font-size: var(--font-size-16xl);
+  background: linear-gradient(90deg, #1392ba, rgba(90, 2, 143, 0.79));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hillwood-payment {
+  top: 93px;
+  left: 98px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-poppins);
+}
+.countries,
+.home {
+  text-decoration: none;
+  position: absolute;
+  top: 69px;
+  left: 555px;
+  color: inherit;
+  text-align: left;
+}
+.countries {
+  top: 70px;
+  left: 865px;
+}
+.company {
+  left: 641px;
+  color: inherit;
+}
+.company,
+.product,
+.signup {
+  text-decoration: none;
+  position: absolute;
+  top: 69px;
+  text-align: left;
+}
+.product {
+  left: 760px;
+  color: inherit;
+}
+.signup {
+  left: 985px;
+  font-weight: 700;
+  
+}
+.home-page-index-page-1-child,
+.home-page-index-page-1-item {
+  border-radius: var(--br-smi);
+  height: 42px;
+}
+.home-page-index-page-1-child {
+  position: absolute;
+  top: 61px;
+  left: 1084px;
+  width: 114px;
+}
+.home-page-index-page-1-item {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home-page-index-page-1-inner,
+.home-page-index-page-1-item,
+.signup1 {
+  width: 114px;
+  position: absolute;
+  top: 458px;
+  border-radius: 13px;
+  background-color: #1392ba;
+  left: 91px;
+}
+.home-page-index-page-1-inner {
+  left: 237px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-white);
+    
+  height: 42px;
+}
+.login,
+.rectangle-icon {
+  width: 114px;
+  position: absolute;
+  border-radius: 13px;
+  top: 61px;
+  
+  left: 1084px;
+}
+.rectangle-icon {
+  top: 179px;
+  left: 726px;
+  width: 503px;
+  height: 376px;
+  object-fit: cover;
+}
+.we-accept-payment {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container,
+.we-accept-payment-container {
+  position: absolute;
+  top: 243px;
+  left: 91px;
+  font-size: var(--font-size-10xl);
+  text-align: left;
+}
+.lorem-ipsum-dolor-container {
+  top: 336px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-200);
+}
+.contact-us {
+  width: 114px;
+  position: absolute;
+  color: black;
+  border-radius: 13px; 
+  border-color: black;
+  top: 458px;
+  left: 237px;
+}
+.home-page-index-page-1-child1,
+.rectangle-div {
+  position: absolute;
+  top: 626px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1282px;
+  height: 397px;
+}
+.home-page-index-page-1-child1 {
+  top: 1036px;
+  background-color: var(--color-steelblue);
+  height: 910px;
+}
+.lorem-ipsum-dolor-container1 {
+  position: absolute;
+  top: 1146px;
+  left: 513px;
+  font-size: var(--font-size-mini);
+}
+.choose-woodempile-payment-container,
+.trusted-copanies-worldwide {
+  position: absolute;
+  top: 653px;
+  left: 459px;
+  font-size: var(--font-size-10xl);
+}
+.trusted-copanies-worldwide {
+  top: 1976px;
+  left: 400px;
+}
+.home-page-index-page-1-child2,
+.home-page-index-page-1-child3 {
+  border-radius: var(--br-7xl);
+  background-color: var(--color-white);
+}
+.home-page-index-page-1-child2 {
+  position: absolute;
+  top: 768px;
+  left: 183px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 249px;
+  height: 213px;
+}
+.home-page-index-page-1-child3 {
+  box-shadow: 0 13px 55px 11px rgba(0, 0, 0, 0.35);
+  height: 63px;
+}
+.get-started-with,
+.home-page-index-page-1-child3,
+.security-icon {
+  width: 299px;
+  position: absolute;
+  top: 1227px;
+  left: 478px;
+}
+.security-icon {
+  top: 797px;
+  left: 277px;
+  width: 60px;
+  height: 55px;
+  overflow: hidden;
+}
+.home-page-index-page-1-child4 {
+  position: absolute;
+  top: 768px;
+  left: 512px;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 249px;
+  height: 213px;
+}
+.payment-icon {
+  position: absolute;
+  top: 797px;
+  left: 610px;
+  width: 60px;
+  height: 55px;
+  overflow: hidden;
+}
+.home-page-index-page-1-child5 {
+  position: absolute;
+  top: 768px;
+  left: 841px;
+  border-radius: var(--br-7xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 249px;
+  height: 213px;
+}
+.message-icon {
+  position: absolute;
+  top: 797px;
+  left: 936px;
+  width: 60px;
+  height: 55px;
+  overflow: hidden;
+}
+.customer-support,
+.hight-security,
+.payment-method {
+  position: absolute;
+  top: 875px;
+  left: 241px;
+  font-size: var(--font-size-xl);
+}
+.customer-support,
+.payment-method {
+  left: 563px;
+}
+.customer-support {
+  left: 886px;
+}
+.lorem-ipsum-dolor2,
+.lorem-ipsum-dolor3,
+.lorem-ipsum-dolor4 {
+  position: absolute;
+  top: 916px;
+  left: 217px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 192px;
+}
+.lorem-ipsum-dolor3,
+.lorem-ipsum-dolor4 {
+  left: 549px;
+}
+.lorem-ipsum-dolor4 {
+  left: 886px;
+}
+.lets-get-start-container {
+  position: absolute;
+  top: 1062px;
+  left: 446px;
+  font-size: var(--font-size-10xl);
+  color: var(--color-white);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.glass-pannel {
+  top: 712px;
+  left: 622px;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 253, 253, 0.31),
+    rgba(250, 243, 243, 0.09)
+  );
+}
+.glass-pannel,
+.glass-pannel1,
+.glass-pannel2 {
+  position: absolute;
+  border-radius: var(--br-sm);
+  backdrop-filter: blur(50px);
+  border: 2px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 381px;
+  height: 153px;
+}
+.glass-pannel1 {
+  top: 688px;
+  left: 605px;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 253, 253, 0.48),
+    rgba(250, 243, 243, 0.14)
+  );
+}
+.glass-pannel2 {
+  top: 667px;
+  left: 587px;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 253, 253, 0.56),
+    rgba(250, 243, 243, 0.16)
+  );
+}
+.div,
+.emery-norbert {
+  position: absolute;
+  top: 783px;
+  left: 602px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.emery-norbert {
+  top: 796px;
+  left: 603px;
+}
+.wifi-icon,
+.wifi-icon1 {
+  position: absolute;
+  top: 683px;
+  left: 930px;
+  width: 20.35px;
+  height: 20.35px;
+  overflow: hidden;
+}
+.wifi-icon1 {
+  top: 722.35px;
+  left: -130.65px;
+  width: 20px;
+  height: 20px;
+}
+.smart-card {
+  position: absolute;
+  top: 722px;
+  left: -151px;
+  width: 1053px;
+  height: 865px;
+  font-size: var(--font-size-3xs);
+}
+.saly-44-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: -50px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.saly-44 {
+  position: absolute;
+  top: 1539px;
+  left: 439px;
+  width: 514px;
+  height: 404px;
+}
+.home-page-index-page-1-child6 {
+  position: absolute;
+  top: 1510px;
+  left: 769px;
+  width: 39px;
+  height: 21px;
+  object-fit: cover;
+}
+.glass-pannel3,
+.glass-pannel4,
+.glass-pannel5 {
+  position: absolute;
+  top: 1626px;
+  left: 123px;
+  border-radius: var(--br-2xl);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 253, 253, 0.56),
+    rgba(250, 243, 243, 0.16)
+  );
+  backdrop-filter: blur(50px);
+  border: 2px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 427px;
+  height: 234px;
+}
+.glass-pannel4,
+.glass-pannel5 {
+  left: 406px;
+}
+.glass-pannel5 {
+  left: 709px;
+}
+.lorem-ipsum-dolor-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.lorem-ipsum-dolor-container2,
+.lorem-ipsum-dolor-container4,
+.lorem-ipsum-dolor-container6 {
+  position: absolute;
+  top: 1748px;
+  left: 149px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 253px;
+}
+.lorem-ipsum-dolor-container4,
+.lorem-ipsum-dolor-container6 {
+  top: 1749px;
+  left: 449px;
+}
+.lorem-ipsum-dolor-container6 {
+  left: 738px;
+  width: 385px;
+}
+.div1,
+.div2 {
+  position: absolute;
+  top: 1657px;
+  left: 907px;
+}
+.div2 {
+  top: 1656px;
+  left: 576px;
+}
+.currencies,
+.div3 {
+  position: absolute;
+  top: 1655px;
+  left: 254px;
+}
+.currencies {
+  top: 1680px;
+  left: 876px;
+}
+.countries1,
+.mechants {
+  position: absolute;
+  top: 1679px;
+  left: 550px;
+}
+.mechants {
+  top: 1678px;
+  left: 248px;
+}
+.home-page-index-page-1-child7,
+.home-page-index-page-1-child8 {
+  position: absolute;
+  top: 2089px;
+  left: 94px;
+  width: 157px;
+  height: 83px;
+  object-fit: cover;
+}
+.home-page-index-page-1-child8 {
+  left: 316px;
+}
+.home-page-index-page-1-child10,
+.home-page-index-page-1-child11,
+.home-page-index-page-1-child9 {
+  position: absolute;
+  top: 2089px;
+  left: 580px;
+  width: 157px;
+  height: 83px;
+  object-fit: cover;
+}
+.home-page-index-page-1-child10,
+.home-page-index-page-1-child11 {
+  left: 802px;
+}
+.home-page-index-page-1-child11 {
+  left: 1048px;
+}
+.home-page-index-page-1-child12 {
+  position: absolute;
+  font-size: 14px;
+  top: 2259px;
+  left: 0;
+  background-color: var(--color-steelblue);
+  width: 1280px;
+  height: 365px;
+}
+.about-us,
+.contact,
+.home1,
+.ours-service {
+  position: absolute;
+  top: 2308px;
+  left: 454px;
+  font-size: 16px;
+  letter-spacing: 0.09em;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.about-us,
+.contact,
+.home1 {
+  left: 691px;
+}
+.contact,
+.home1 {
+  left: 1053px;
+  font-size: 16px;
+}
+.home1 {
+  text-decoration: none;
+  top: 2355px;
+  font-size: 16px;
+  left: 454px;
+}
+.div4,
+.how-do-we {
+  top: 2360px;
+  font-weight: 500;
+  font-size: 16px;
+}
+.how-do-we {
+  text-decoration: none;
+  position: absolute;
+  left: 686px;
+  letter-spacing: 0.09em;
+  font-size: 16px;
+  color: var(--color-white);
+}
+.div4 {
+  left: 1041px;
+  font-size: 16px;
+}
+.div4,
+.where-you-ask,
+.woodempiregmailcom {
+  position: absolute;
+  font-size: 16px;
+  letter-spacing: 0.09em;
+  color: var(--color-white);
+}
+.woodempiregmailcom {
+  top: 2405px;
+  left: 990px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.where-you-ask {
+  top: 2403px;
+  left: 686px;
+  font-size: 16px;
+}
+.about-us1,
+.for-more-information,
+.where-you-ask {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+}
+.for-more-information {
+  position: absolute;
+  top: 2452px;
+  left: 686px;
+  font-size: 16px;
+  letter-spacing: 0.09em;
+  color: var(--color-white);
+}
+.about-us1 {
+  top: 2401px;
+  left: 454px;
+  font-size: 16px;
+  font-size: var(--font-size-3xl);
+}
+.about-us1,
+.in-publishing-and-container,
+.service {
+  position: absolute;
+  letter-spacing: 0.09em;
+  font-size: 16px;
+  color: var(--color-white);
+}
+.service {
+  text-decoration: none;
+  top: 2449px;
+  font-size: 16px;
+  left: 454px;
+  font-weight: 500;
+}
+.in-publishing-and-container {
+  top: 2365px;
+  left: 30px;
+  font-size: 16px;
+  white-space: pre-wrap;
+  text-align: left;
+}
+.wrapper {
+  width: 266px;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2432px;
+  left: 30px;
+}
+.enter-your-email {
+  position: absolute;
+  top: 2453px;
+  left: 54px;
+  font-size: 12px;
+  letter-spacing: 0.09em;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.28);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home-page-index-page-1-child13 {
+  border-radius: 12px;
+  
+  height: 52px;
+}
+.home-page-index-page-1-child13,
+.line-div,
+.subscribe {
+  width: 101px;
+  position: absolute;
+  background-color: #1392ba;
+  top: 2429px;
+  left: 190px;
+}
+.line-div {
+  top: 2526.5px;
+  left: 1.5px;
+  border-top: 1px dashed rgba(255, 255, 255, 0.61);
+  box-sizing: border-box;
+  width: 1281px;
+  height: 1px;
+}
+.wood-2022- {
+  position: absolute;
+  top: 2558px;
+  left: 42px;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.09em;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.65);
+}
+.home-page-index-page-1-child14 {
+  position: absolute;
+  top: 2562px;
+  left: 27px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.hillwood-payment1,
+.woodempile1 {
+  position: absolute;
+  text-align: left;
+}
+.woodempile1 {
+  top: 2273px;
+  left: 52px;
+  font-size: var(--font-size-16xl);
+  background: linear-gradient(
+    90deg,
+    rgba(90, 2, 143, 0.79),
+    rgba(90, 2, 143, 0.79)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hillwood-payment1 {
+  top: 2319px;
+  left: 61px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-poppins);
+}
+.home-page-index-page-1 {
+  position: relative;
+  width: 100%;
+  height: 2624px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  font-family: var(--font-roboto-slab);
+}
